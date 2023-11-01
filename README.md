@@ -1,3 +1,4 @@
 # Horiseon-Zon
 First Challenge 
-Trying to make the code a bit more neat and tidy but finding difficult to make it happen, I have seen some of "mistakes" but I will have another look and trying my best
+I have combine some of the class into one so it look a bit more neat and clear even though there are still more type of classes.
+I dont know why I can make the pictures coming along with the text.
